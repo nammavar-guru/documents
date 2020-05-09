@@ -1,0 +1,22 @@
+Visual Studio code shortcut keys
+
+ctrl+p - show recent files
+ctrl+p @ - shows the current files method names
+ctrl+p @: - find declaration variables
+
+ctrl+p # - shows the method name across the folder
+
+F12 - go to Definition of the method
+ctrl+ click - shows the preview of the method
+
+ctrl + c - copy the current line (no need to select the line). Place the cursor enough.
+ctrl + v - paste the copied content
+
+shft + alt + down arrow - Duplicate the current line in next line.
+shft + alt + up arrow - Duplicate the current line in upper.
+
+alt+ down arrow - move the current line to down.
+alt+ up arrow - move the current line to up
+
+alt+shft+f - format the file 
+alt+f ; alt+k - particular content in the file.
